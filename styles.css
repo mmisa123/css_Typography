@@ -6,10 +6,16 @@ html {
     font-size: 16px;
 }
 
-h1 {
+.bold {
     font-weight: 800;
+}
+
+h1 {
+
+ /* font-weight: 800; */
     text-align: center;
     margin: -4px 0;
+    letter-spacing: 0.15px;
 }
 
 p {
